@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(243, 53, 53);
+    color: rgb(0, 255, 21);
+}
+li{
+     
+    font-size: 25px;
+}
+#fe{
+    font-size: 25px;
+    color: rgb(60, 255, 21);
+}
+#ul2{
+    position: relative;
+    flex:content;
+    margin:50px;
+    margin-top: 10px;
+}
